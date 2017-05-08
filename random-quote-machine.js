@@ -50,3 +50,4 @@ document.getElementById("quotedisplay").style.backgroundColor = paragraphColor;
 
 
 
+
